@@ -1,11 +1,16 @@
 _repo: The-Fastest-Gun-Dead_61013
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61013-h/images/cover.jpg
 creator:
   author:
     agent_name: Grow, Julian F.
     gutenberg_agent_id: '47227'
     url: http://www.gutenberg.org/2009/agents/47227
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61013#The-Fastest-Gun-Dead
 gutenberg_issued: '2019-12-24'
 gutenberg_type: Text
 identifiers:
